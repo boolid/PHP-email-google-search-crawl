@@ -1,5 +1,6 @@
 <?php
 
+include('crawl.php');
 
 ///////////// EMAIL CRAWLER EXAMPLE //////////////
 $email = array();
