@@ -1,11 +1,12 @@
 <?php
 
 /*
-	This Website Crawler is developed by Changjoo Jeon, Software Engineer from UBC
+	This Website Crawler is developed by Changjoo (CJ) Jeon, Software Engineer from UBC
 	Most of the codes were adapted from SubinSB
-	Webcrawler function was Developed by SubinSB 
+	Webcrawler function was Developed by SubinSB and I modified the function for my needs.
 	From:	http://subinsb.com/how-to-create-a-simple-web-crawler-in-php
-	Thanks to SubinSB I was able to finish email harvesting code
+	
+	Thanks to SubinSB I was able to finish email and google crawling code
 */
  
 include("simple_html_dom.php");
