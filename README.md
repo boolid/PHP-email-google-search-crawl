@@ -33,7 +33,7 @@ Just add the libraries (files) in your server and include the crawl.php in your 
 - $linkedin   => [Reference Array]. Just put declare an array and pass the reference to the function to get linkedin page(s).
 
 ### google_crawl($keyword, $start, $end, &$url_array = null, &$page_array = null, &$title_array = null);
-- $URL          => [input variable]. Keyword that you want to search in Google. ex) http://example.com
+- $keyword      => [input variable]. Keyword that you want to search in Google. ex) Boolid
 - $start        => [input variable]. Start Page of google. ex) 1
 - $end          => [input variable]. End Page of google. ex) 5
 - $url_array    => [Reference Array]. Just put declare an array and pass the reference to the function to get URLs.
